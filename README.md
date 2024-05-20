@@ -16,7 +16,7 @@
 <h1 align="center">Hi 👋, I'm Elena Moreno</h1>
 <h3 align="center">A passionate Programmer from Colombia</h3>
 <p align="center">
-I'm passionate developer. My fascination with aesthetics in web pages drives me to create impactful and functional visual experiences. Among my preferred technologies is React, thanks to its versatility and ability to create dynamic and interactive interfaces. Additionally, I have experience in C# and PHP, which allows me to tackle different aspects of software development with strength. I can't forget to mention my interest in database development, where I enjoy designing efficient and scalable structures to support robust applications.🛠️
+✨ I'm passionate developer. My fascination with aesthetics in web pages drives me to create impactful and functional visual experiences. Among my preferred technologies is React, thanks to its versatility and ability to create dynamic and interactive interfaces. Additionally, I have experience in C# and PHP, which allows me to tackle different aspects of software development with strength. I can't forget to mention my interest in database development, where I enjoy designing efficient and scalable structures to support robust applications. ✨
 </p>
 
 <div align="center">
@@ -53,7 +53,7 @@ I'm passionate developer. My fascination with aesthetics in web pages drives me 
   src="https://raw.githubusercontent.com/memgn19/memgn19/main/undraw_dev_focus_re_6iwt.svg"
 />
 <br /><br />
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me 💖:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/elena-moreno-a63197293/" target="blank"
     ><img
@@ -76,7 +76,7 @@ I'm passionate developer. My fascination with aesthetics in web pages drives me 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools 🛠️:</h3>
 
 - Backend
 <p align="left">
