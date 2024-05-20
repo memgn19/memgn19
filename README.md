@@ -16,11 +16,7 @@
 <h1 align="center">Hi 👋, I'm Elena Moreno</h1>
 <h3 align="center">A passionate Programmer from Colombia</h3>
 <p align="center">
-  I am fascinated by how computer technology 🌐 has brought changes to our lives
-  that could never have been predicted; witnessing the expansion of computer
-  science allowed me to consider studying software engineering from an early
-  age, and my enthusiasm has perpetually developed since this time. And also I
-  love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️
+I'm passionate developer. My fascination with aesthetics in web pages drives me to create impactful and functional visual experiences. Among my preferred technologies is React, thanks to its versatility and ability to create dynamic and interactive interfaces. Additionally, I have experience in C# and PHP, which allows me to tackle different aspects of software development with strength. I can't forget to mention my interest in database development, where I enjoy designing efficient and scalable structures to support robust applications.🛠️
 </p>
 
 <div align="center">
@@ -114,8 +110,5 @@
 </p>
 <br />
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
-<br />
-<em
-  ><b>I love connecting with different people</b> so if you want to say
-  <b>hi, I'll be happy to meet you more!</b> :)</em
->
+
+
